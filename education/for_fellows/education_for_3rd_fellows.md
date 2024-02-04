@@ -46,12 +46,12 @@
 
 ### 4. 「質の高いICUとは」(多職種協働、患者安全、医療の質、医療倫理、感染制御) NEW!!  
 - 課題図書  
-  - 「日本集中治療医学会 集中治療室における安全管理指針」日集中医誌 2021;28:29-59. 
+  - [「日本集中治療医学会 集中治療室における安全管理指針」](https://www.jsicm.org/pdf/icu_anzen_kanri.pdf)日集中医誌 2021;28:29-59. 
 - 参考図書  
-  - 「ICU Admission, Discharge, and Triage Guidelines: A Framework to Enhance Clinical Operations, Development of Institutional Policies, and Further Research 」PMID: 27428118
-  - 「Critical Care Delivery: The Importance of Process of Care and ICU Structure to Improved Outcomes: An Update From the American College of Critical Care Medicine Task Force on Models of Critical Care 」PMID: 25803647
-  - 「Guidelines for Family-Centered Care in the Neonatal, Pediatric, and Adult ICU」PMID: 27984278
-  - 「An Official ATS/AACN/ACCP/ESICM/SCCM Policy Statement: Responding to Requests for Potentially Inappropriate Treatments in Intensive Care Units」PMID: 25978438 
+  - [「ICU Admission, Discharge, and Triage Guidelines: A Framework to Enhance Clinical Operations, Development of Institutional Policies, and Further Research 」](https://pubmed.ncbi.nlm.nih.gov/27428118/)PMID: 27428118
+  - [「Critical Care Delivery: The Importance of Process of Care and ICU Structure to Improved Outcomes: An Update From the American College of Critical Care Medicine Task Force on Models of Critical Care 」](https://pubmed.ncbi.nlm.nih.gov/25803647/)PMID: 25803647
+  - [「Guidelines for Family-Centered Care in the Neonatal, Pediatric, and Adult ICU」](https://pubmed.ncbi.nlm.nih.gov/27984278/)PMID: 27984278
+  - [「An Official ATS/AACN/ACCP/ESICM/SCCM Policy Statement: Responding to Requests for Potentially Inappropriate Treatments in Intensive Care Units」](https://pubmed.ncbi.nlm.nih.gov/25978438/)PMID: 25978438 
 
 ### 5. 「病院運営を知る」（病院機能、病院経営、労務管理、病院内の部署の役割）  
 - 課題図書
@@ -62,10 +62,10 @@
 
 ### 6. 「地域社会とその未来」（医療政策、地域医療、社会保障）  
 - 課題図書  
-  - 「2.医療提供体制を取り巻く状況~超高齢化・人口急減の到来~」第8次医療計画、地域医療構想等について 令和4年3月4日 第7回第8次医療計画 等に関する検討会 
-https://www.mhlw.go.jp/content/10800000/000911302.pdf
+  - [「2.医療提供体制を取り巻く状況 ~超高齢化・人口急減の到来~」](https://www.mhlw.go.jp/content/10800000/000911302.pdf) 第8次医療計画、地域医療構想等について 令和4年3月4日 第7回第8次医療計画 等に関する検討会 
+
 - 参考図書  
-  - 「弱いロボット」岡田 美智男（医学書院）
-  - 「ビギナーズ地域福祉」牧里 毎治（有斐閣アルマ）
-  - 「社会が変わるマーケティング――民間企業の知恵を公共サービスに活かす」フィリップ・コトラー（英治出版）
-  - 「医療政策集中講義: 医療を動かす戦略と実践」東京大学公共政策大学院 医療政策教育・研究ユニット（医学書院）　Section 1　2025年に向けた社会保障制度改革
+  - [「弱いロボット」](https://www.amazon.co.jp/dp/4260016733)岡田 美智男（医学書院）
+  - [「ビギナーズ地域福祉」](https://www.amazon.co.jp/dp/4641124868)牧里 毎治（有斐閣アルマ）
+  - [「社会が変わるマーケティング――民間企業の知恵を公共サービスに活かす」](https://www.amazon.co.jp/dp/4862760090)フィリップ・コトラー（英治出版）
+  - [「医療政策集中講義: 医療を動かす戦略と実践」](https://www.amazon.co.jp/dp/4260021648)東京大学公共政策大学院 医療政策教育・研究ユニット（医学書院）　Section 1　2025年に向けた社会保障制度改革
