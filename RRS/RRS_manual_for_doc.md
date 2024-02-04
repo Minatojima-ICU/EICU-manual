@@ -1,5 +1,5 @@
 # 港島RRSマニュアル （RRS医師用）
-* マニュアルは[こちら](MinatojimaRRT.pdf)
+* 港島RRSポケットマニュアルは[こちら](MinatojimaRRT.pdf)
 
 ## 目次
 1.	[活動目的](#1-活動目的)
