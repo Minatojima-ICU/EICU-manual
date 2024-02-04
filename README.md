@@ -1,5 +1,5 @@
 # 港島EICU 業務マニュアル
-![01](images/001.jpg)
+![001](images/001.jpg)
 ## 目次
 1. [業務マニュアル](manual/EICU_manual_for_doc.md) 
 1. [当直医マニュアル](manual/EICU_manual_for_night_shift.md)
