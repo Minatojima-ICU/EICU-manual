@@ -25,7 +25,7 @@
   - [「集合知の力、衆愚の罠―人と組織にとって最もすばらしいことは何か」](https://www.amazon.co.jp/dp/B00WDP87LO/)アラン ブリスキンほか（英治出版）
   - [「コーチングのすべて――その成り立ち・流派・理論から実践の指針まで」](https://www.amazon.co.jp/dp/B077VQ9PJW/)ジョセフオコナー（英知出版）
 
-### 2. 「物事を進めていく」（ビジョン/ミッション/バリュー、現状把握、方略策定、リソース管理、交渉術new!）  
+### 2. 「物事を進めていく」（ビジョン/ミッション/バリュー、現状把握、方略策定、リソース管理、交渉術）  
 - 課題図書
   - [「民間企業の知恵を公共サービスに活かす　社会が変わるマーケティング」](https://www.amazon.co.jp/dp/4862760090/)フィリップコトラー他（英知出版）、第一章 市民の要望にこたえる（可能であれば第二章も）
 - 参考図書
@@ -44,7 +44,7 @@
   - [「企業変革力」](https://www.amazon.co.jp/dp/B071WR7XMH/)ジョンP コッター（日経BP）
   - [「Fundamental Disaster Management」](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management/FCCS-Crisis-Management-Self-Study)Society of Critical Care Medicine（SCCM）
 
-### 4. 「質の高いICUとは」(多職種協働、患者安全、医療の質、医療倫理、感染制御) NEW!!  
+### 4. 「質の高いICUとは」(多職種協働、患者安全、医療の質、医療倫理、感染制御) 
 - 課題図書  
   - [「日本集中治療医学会 集中治療室における安全管理指針」](https://www.jsicm.org/pdf/icu_anzen_kanri.pdf)日集中医誌 2021;28:29-59. 
 - 参考図書  
