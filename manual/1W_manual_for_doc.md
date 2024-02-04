@@ -3,6 +3,9 @@
 # 救急科入院患者担当マニュアル　
 ☆★適宜、必要に応じて見直し、共有します★☆
 
+* EICU業務マニュアルは[こちら](EICU_manual_for_doc.md)
+* EICU当直医マニュアルは[こちら](EICU_manual_for_night_shift.md)
+
 ## 救急科入院対象患者
 - 救急外来マニュアル参照
 
