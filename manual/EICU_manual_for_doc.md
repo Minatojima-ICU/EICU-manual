@@ -1,7 +1,7 @@
 # EICU業務マニュアル
 ☆★適宜、必要に応じて見直し、共有します★☆  
 
-* 当直医マニュアルは[こちら](EICU_manual_for_night_shift.md)
+* EICU当直医マニュアルは[こちら](EICU_manual_for_night_shift.md)
 
 ## タイムスケジュール
 ### 平日
