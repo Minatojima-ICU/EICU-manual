@@ -2,10 +2,10 @@
 
 # 集中治療フェロー2年目勉強会　__【教育】__
 ## 目的、方法
-集中治療フェロー2年目の研修目標は「集中治療を教育できる」です。
+集中治療フェロー2年目の研修目標は **「集中治療を教育できる」** です。
 
-各フェーズ、最初の1ヶ月で課題図書に目を通してもらいます。
-そしてオンライン学習会を開きましょう（2時間程度）。
+各フェーズ、最初の1ヶ月で課題図書に目を通してもらいます。  
+そしてオンライン学習会に参加してください（2時間程度）。  
 その後、残りの数ヶ月で実践に落とし込んでください。
 
 
@@ -19,7 +19,7 @@
 - 課題図書
   - 「21世紀型スキル」という単語をググるだけでいいです。
 - 参考図書
-  - 「21世紀型スキル: 学びと評価の新たなかたち」P.グリフィン、他（北大路書房）
+  - [「21世紀型スキル: 学びと評価の新たなかたち」](https://www.amazon.co.jp/dp/4762828572)P.グリフィン、他（北大路書房）
 
 
 ＜8月〜10月＞
@@ -30,10 +30,10 @@
 オンライン学習会で回答を伺います。  
 
 - 課題図書
-  - 「変革を生む研修のデザイン ―仕事を教える人への活動理論」ユーリア　エンゲストローム（鳳書房）
+  - [「変革を生む研修のデザイン ―仕事を教える人への活動理論」](https://www.amazon.co.jp/dp/4902455242/)ユーリア　エンゲストローム（鳳書房）
 p40-47 第2章 よい学習とは何か 9 学習サイクルの進行
 - 参考図書
-  - 「ワークショップと学び3 まなびほぐしのデザイン」苅宿俊文、他（東京大学出版会）
+  - [「ワークショップと学び3 まなびほぐしのデザイン」](https://www.amazon.co.jp/dp/4130530836/)苅宿俊文、他（東京大学出版会）
 
 
 ### 3. 「医学教育とは」
@@ -43,10 +43,10 @@ p40-47 第2章 よい学習とは何か 9 学習サイクルの進行
 また、インストラクショナルデザインについても検索して、教育そのものの全体像に対して能動的に介入できるようにしておいてください。  
 
 - 課題図書
-  - 「医学教育を学び始める人のために」RM Harden、JM Laidlaw（篠原出版新社）
+  - [「医学教育を学び始める人のために」](https://www.amazon.co.jp/dp/4884123697/)RM Harden、JM Laidlaw（篠原出版新社）
 iii-V 目次
 - 参考図書
-  - 「ACP Teaching Medicine Series: 7 Book Boxed Set」J Ende（American College of Physicians）
+  - [「ACP Teaching Medicine Series: 7 Book Boxed Set」](https://www.amazon.co.jp/dp/1938921127/)J Ende（American College of Physicians）
   - ACGME webサイト（https://www.acgme.org）
   - COBATLICE webサイト（http://www.cobatrice.org）
 
@@ -57,7 +57,7 @@ iii-V 目次
 - 課題図書
   - 診断的評価、形成的評価、総括的評価を検索する
 - 参考図書
-  - 「医学教育を学び始める人のために」RM Harden、JM Laidlaw（篠原出版新社）
-  - 「ACP Teaching Medicine Series: 7 Book Boxed Set」J Ende（American College of Physicians）
+  - [「医学教育を学び始める人のために」](https://www.amazon.co.jp/dp/4884123697/)RM Harden、JM Laidlaw（篠原出版新社）
+  - [「ACP Teaching Medicine Series: 7 Book Boxed Set」](https://www.amazon.co.jp/dp/1938921127/)J Ende（American College of Physicians）
   - ACGME webサイト（https://www.acgme.org）
   - COBATLICE webサイト（http://www.cobatrice.org）
