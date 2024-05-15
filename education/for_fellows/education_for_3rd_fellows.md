@@ -74,3 +74,4 @@
   - [「ビギナーズ地域福祉」](https://www.amazon.co.jp/dp/4641124868)牧里 毎治（有斐閣アルマ）
   - [「社会が変わるマーケティング――民間企業の知恵を公共サービスに活かす」](https://www.amazon.co.jp/dp/4862760090)フィリップ・コトラー（英治出版）
   - [「医療政策集中講義: 医療を動かす戦略と実践」](https://www.amazon.co.jp/dp/4260021648)東京大学公共政策大学院 医療政策教育・研究ユニット（医学書院）　Section 1　2025年に向けた社会保障制度改革
+  - [JAPAN SDGs Action Platform](https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/index.html)外務省 *new!*
