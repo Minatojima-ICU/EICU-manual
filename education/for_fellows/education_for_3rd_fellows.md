@@ -60,7 +60,7 @@
   - [「自治体病院経営ハンドブック」](https://shop.gyosei.jp/products/list?mode=&category_id=101003003&name=&pageno=1&disp_number=30&orderby=1&keyword=&author_name=&code=&mbn=&product_stock=1)自治体病院経営研究会（ぎょうせい）
   - [「病院経営の教科書〈数値と事例で見る中小病院の生き残り戦略〉」](https://www.amazon.co.jp/dp/4784945113/)小松 大介、他（日本医事新報社） 
   - [「データで変える病院経営」](https://www.amazon.co.jp/dp/4502419214)後藤 隆久、他（中央経済社）*new!*
-  - [「サービスの経営学」](https://www.amazon.co.jp/dp/B010N4TDSM)今枝 昌宏（東洋経済新報社）
+  - [「サービスの経営学」](https://www.amazon.co.jp/dp/B010N4TDSM)今枝 昌宏（東洋経済新報社）*new!*
 
 ### 6. 「地域社会とその未来」（医療政策、地域医療、社会保障）  
 - 課題図書  
