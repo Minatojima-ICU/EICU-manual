@@ -1,0 +1,231 @@
+# EICU Operations Manual
+☆★ Will be reviewed and shared as needed ★☆
+
+* The EICU Night Shift Manual is [here](EICU_manual_for_night_shift.md)
+* The Emergency Department Inpatient Manual is [here](1W_manual_for_doc.md)
+
+## Table of Contents
+- [Schedule](#schedule)
+  - [Weekdays](#weekdays)
+  - [Holidays](#holidays)
+  - [Points](#points)
+- [EICU Operations](#eicu-operations)
+  - [Doctors in Charge](#doctors-in-charge)
+  - [Patient Responsibilities](#patient-responsibilities)
+  - [Order Principles](#order-principles)
+  - [Instruction Sheets](#instruction-sheets)
+  - [IV Therapy](#iv-therapy)
+  - [Oral Medications](#oral-medications)
+  - [Discharge Procedures](#discharge-procedures)
+  - [Medical Record Documentation](#medical-record-documentation)
+  - [Neurosurgical/Stroke Patients](#neurosurgical-stroke-patients)
+  - [Postoperative Patients](#postoperative-patients)
+- [Tips](#tips)
+- [Manual](#manual)
+
+## Schedule
+### Weekdays
+
+| Time | Activity | Person in Charge |
+| ------- | ----------------------------- | --------------------- |
+| 7:30    | Gather in the emergency lab room, handover from the night shift doctor, assign responsibilities | Assigned by the on-duty doctor |
+|         |_The previous night shift doctor will leave after verifying the conference ledger and JIPAD input._
+| 8:00-9:00 | Confirm patient management and bed control with the neurosurgeon | Neurosurgeon in charge |
+| 9:00     | Local conference (ER meeting room) | Ward doctor |
+| 9:00-9:40 | Start of multidisciplinary rounds | Moderator: On-duty doctor, <BR> Presentation: Each doctor in charge |
+| 9:40-12:00 | Educational rounds | On-duty doctor |
+| Around 11:00 | Discuss bed control and the major policy for each patient for the day | Leader nurse / On-duty doctor |
+| -- | Start individual medical care after the rounds end |
+| -- | Lunch (rotate, leaving someone in the ICU) | On-duty doctor directs |
+| 16:30-17:30 | Handover in the emergency lab | On-duty doctor |
+
+### Holidays
+
+| Time | Activity | Person in Charge |
+| --- | --- | --- |
+| 7:30 | Gather in the emergency lab room, handover from the night shift, assign responsibilities | Assigned by the on-duty doctor |
+| 8:45 | _Rehabilitation rounds_ | _Previous night shift doctor_ |
+|| _The previous night shift doctor will leave after entering the conference ledger and JIPAD after the rehabilitation rounds._
+| 9:00-11:00 | Educational rounds | On-duty doctor |
+| Around 11:00 | Discuss bed control and the major policy for each patient for the day | Leader nurse / On-duty doctor |
+| -- | Start individual medical care after the rounds end |
+| -- | Lunch (rotate, leaving someone in the ICU) | On-duty doctor directs |
+| 16:30-17:30 | Handover in the emergency lab | On-duty doctor |
+
+### Points
+- Work Hours
+  - Finish work by 17:30, hand over any remaining tasks to the night shift doctor or the stay-behind doctor
+  - Dr car operations typically end around 17:30, the person in charge must stay until Dr car operations conclude (can be longer depending on sunset)
+
+- Educational Rounds
+  - When there are many patients, adjust the pace of the rounds based on patient conditions and the experience level of the doctors to avoid making the rounds excessively long.
+  - ⚠️ __To prevent power harassment, 'questions from senior doctors are prohibited during rounds'__ (Exposing one's lack of knowledge in front of multiple people)
+    * Questions from junior doctors to senior doctors are encouraged during training.
+    * Senior doctors can ask questions outside of rounds when only two people are present.
+
+- Multidisciplinary Rounds
+  - Always start exactly at __9:00__ (considering the workload of other professions)
+  - End no later than __9:45__
+  - Discuss the necessity and presence of physical restraints during multidisciplinary rounds. If deemed necessary, the nurse in charge must record the reason using a separate exChart.
+
+- Handover
+  - Adjust the morning handover to finish by __8:00__
+  - Adjust the evening handover to finish by __17:30__
+  - Record the handover notes for both morning and evening.
+    - For morning handover records, copy the previous night shift doctor's medical records.
+    - For evening handover records, copy the last part of the day shift's medical records.
+  - When assigning patients in the morning, ensure a senior doctor is assigned to junior doctors up to their second year of postgraduate training.
+  - Ward assignments are handled by third-year postgraduate doctors, fellows, or attending staff.
+  - Conduct thorough handovers for ward patients, including long-term plans.
+
+## EICU Operations
+<a id="doctors-in-charge"></a>
+- Doctors in Charge:
+    - Junior doctors can choose their patients, while senior doctors change their assigned patients every few days.
+
+<a id="patient-responsibilities"></a>
+- Patient Responsibilities:
+    - For patients admitted to EICU/CCU, assign a dedicated EICU doctor, except for cardiology patients.
+    - For neurosurgical patients, document the responsibility for each management task in the medical record/instruction sheet (format available).
+    - For non-intubated stroke patients without special reasons, the EICU doctor serves as a backup.
+
+<a id="order-principles"></a>
+- Order Principles:
+    - When issuing new orders or prescriptions or making changes, promptly inform the nurse leader (changes do not immediately update in the electronic medical record system).
+    - Issue orders for IV therapy and prescribed medications until the following Tuesday.
+    - Use the set template for admission orders: "Set Expansion > Anesthesiology > EICU/GICU > Admission Set."
+    - Fully expand the appropriate "Injection Set" and "Instruction Sheet Set" and delete unnecessary items afterward.
+    __⚠️ Always use the items within the set to issue orders.__
+    - For weekday blood tests, order them by 15:00 the previous day. On Fridays, order tests for the following Monday as well.
+
+<a id="instruction-sheets"></a>
+- Instruction Sheets:
+    - Use items within the set for issuing orders. If there are no suitable items, select from "Severe Ward Instructions > Instructions Sheet > Large Category: ICU." If not available, use free text.
+    - Do not use "General Ward Instructions." Even if the primary or other doctors issue "General Ward Instructions," ICU nurses will not accept these instructions, so rewrite necessary instructions as "Severe Ward Instructions."
+    - Record other necessary instructions such as "Respiratory Management Instructions" and "Dialysis Instructions" as needed.
+
+<a id="iv-therapy"></a>
+- IV Therapy:
+    - Basic principle: Prescribe injections as "Severe Injection," insulin as "Insulin Injection," and TPN as "TPN Injection." (In the ICU, use stocked medications to avoid double costs as "Severe Injection" prescriptions do not get dispensed from the pharmacy.)
+        - Severe injections are marked with 'Severe' on the grey tab of the injection calendar.
+  - Preferably order from "Set Expansion > Anesthesiology > EICU/GICU > Individual Injection Set."
+  - For continuous IV therapy outside the set, select "Severe Continuous" as the administration method (allows nurses to adjust flow rates and change bottles).
+  - Prescribe injections until the following Tuesday, except for medications with a determined duration or narcotics.
+  - For narcotics, prescribe as "Inpatient Narcotic Injection Only" instead of "Severe Injection Only," marked with 'Narcotic' on the grey tab. Issue narcotic prescription forms and hand them to the nurse after signing them.
+  - For PRN medications, prescribe as "PRN Injection Only" (marked with '☆' on the calendar tab).
+  - When prescribing outside the set, a contraindication alert appears if trying to combine catecholamines. Check with someone who knows how to avoid this.
+
+<a id="oral-medications"></a>
+- Oral Medications:
+    - Prescribe from the prescription calendar. By default, "one-pack" is selected, so uncheck it if necessary.
+    - Specific times for oral medications cannot be designated; if prescribed as "after every meal," the default in the severe instruction sheet is "7:00/13:00/18:00." For instructions like "every 8 hours," no time is specified. For strict timing, note it in the free comment section of the prescription.
+    - Prescribe oral medications until the following Tuesday. For short-term prescriptions, note it in the comment section.
+    - For skipping regular oral medications, select the relevant medication from the prescription calendar, right-click, and choose "Suspend Medication." Extend instructions to cover only the suspended duration.
+
+<a id="discharge-procedures"></a>
+- Discharge Procedures:
+    - The attending doctor must complete a discharge summary (format available in "Anesthesiology > EICU/GICU > Severe Division Summary Folder"), give an oral handover to the primary doctor, and reissue instructions and IV orders.
+        - Rewrite the discharge summary (different from the round notes) by simplifying each problem (avoid excessive reduction).
+        - Clearly indicate the clinical responsibility and extent of management by other departments for each problem involving other departments.
+   
+
+- Oral handovers to the primary doctor must be conducted by a senior resident or higher.
+    - If the patient is on dialysis, a handover to the dialysis on-call team is also necessary.
+    - Cancel all "Severe Ward Instructions" and reissue appropriate "General Ward Instructions" (Instruction Sheets > Large Category: Common).
+    - Record the completion of the handover to the primary doctor in the instruction sheet.
+    - For IV therapy, once the patient is transferred on the ward map, issue ongoing and next day's orders as "Scheduled Injections Only."
+    __⚠️ If kept as "Severe Injection," the IV fluids will not be delivered to the ward!__
+    - If a handover to the primary doctor/department cannot be done during the day, EICU will manage until the handover is complete and note this in the instruction sheet.
+
+<a id="medical-record-documentation"></a>
+- Medical Record Documentation:
+    - Document admission and discharge summaries in the "Severe Division Summary."
+    - The daily records should be copied from the previous day's notes and updated with the current day's activities.
+    - Ensure the reasoning behind decisions is clearly documented so the thought process is understandable, even if the attending doctor changes.
+    - For clinical issues involving consultation doctors, indicate the scope of their responsibilities.
+    - Senior doctors must check medical records written by junior doctors.
+    __⚠️ Without documentation of actions taken, information will not be passed on for the following days!__
+
+<a id="neurosurgical-stroke-patients"></a>
+- Neurosurgical/Stroke Patients:
+    - Receive a handover upon admission, clearly defining the EICU doctor's role (format available).
+    - At around 9:00, neurosurgeons or their seniors visit EICU for brief management reports and consultations.
+    - Assign a neurosurgeon daily to oversee appropriate management for that day.
+    - For intubated patients, requests for extubation and respiratory/sedation management are accepted.
+    - Create medical records as usual.
+    - Intubated patients from the Neurology department are managed by EICU until discharge (no partial management).
+    - For non-cardiology CCU patients, confirm management division between EICU and CCU doctors upon admission and document this in the instruction sheet.
+    - When admitted from the ER, receive handover from the ER doctor, noting any concerns, line hygiene, cultures submitted, etc., and reflect this in the admission summary.
+
+<a id="postoperative-patients"></a>
+- Postoperative Patients:
+    - Receive handovers from the surgeon and anesthesiologist and document in the "Surgical Handover."
+    - Share the following with the surgeon:
+        - Rest level, start of diet, start of anticoagulants/antiplatelets, postoperative imaging evaluations, antibiotics
+
+<a id="tips"></a>
+## Tips
+- Daytime transport of orally intubated patients by junior/specialist trainees is **prohibited!** 
+    - Staff and fellows must accompany them, providing education on in-hospital and inter-hospital transport.
+- Transport using NIV/HFNC is **prohibited!**
+
+<a id="manual"></a>
+## Manual (review during spare time or when there are applicable cases)
+- Pre-percutaneous tracheostomy confirmation
+- Tracheostomy tube replacement checklist
+- Cuff leak protocol
+- Extubation protocol
+- Comprehensive management of tracheostomy in the trauma room
+- TTM protocol
+- PLR protocol
+- Helicopter transport manual
+- Emergency assurance center manual
+
+# EICU Night Shift Manual
+☆★ Will be reviewed and shared as needed ★☆
+
+* The EICU Operations Manual is [here](EICU_manual_for_doc.md)
+* The Emergency Department Inpatient Manual is [here](1W_manual_for_doc.md)
+
+## Table of Contents
+- [EICU Night Shift Duties](#eicu-night-shift-duties)
+- [Points](#points)
+
+## EICU Night Shift Duties
+- Follow the night shift checklist chronologically. Check off completed tasks and submit the checklist to the envelope in the emergency lab at the end of the shift.
+  ⚠️ __Do not check off tasks that have not been done!__
+
+- Regular Duties (both weekdays and holidays)
+    - After the morning handover, assign doctors in charge for each patient, ward doctors, and neurosurgeons. Note these assignments on the nurse whiteboard in the ICU.
+    - Ensure the RRS PHS and assurance center phone are powered on every morning.
+    - The on-duty doctor manages (moderates) the rounds (multidisciplinary and educational).
+    - At 11:00, the on-duty doctor and head nurse share the day's schedule, time adjustments, and identify patients who can be discharged.
+    - Confirm that EICU admission/discharge patients are registered in JIPAD within 24 hours. If not, complete the registration process.
+
+- Rehabilitation Rounds (holidays only)
+  - Have the assigned PT present the patient's condition and rehabilitation goals, and discuss them.
+  - The previous night shift doctor records the contents in the rehabilitation rounds template.
+
+## Points
+- Educational Rounds
+    - When there are many patients, adjust the pace of the rounds based on patient conditions and the experience level of the doctors to avoid making the rounds excessively long.
+    - ⚠️ __To prevent power harassment, 'questions from senior doctors are prohibited during rounds'__ (Exposing one's lack of knowledge in front of multiple people)
+      * Questions from junior doctors to senior doctors are encouraged during training.
+      * Senior doctors can ask questions outside of rounds when only two people are present.
+
+- Multidisciplinary Rounds
+    - Always start exactly at __9:00__ (considering the workload of other professions)
+    - End no later than __9:45__
+    - Discuss the necessity and presence of physical restraints during multidisciplinary rounds. If deemed necessary, the nurse in charge must record the reason using a separate exChart.
+
+- Handover
+    - Adjust the morning handover to finish by __8:00__
+    - Adjust the evening handover to finish by __17:30__
+    - Record the handover notes for both morning and evening.
+        - For morning handover records, copy the previous night shift doctor's medical records.
+        - For evening handover records, copy the last part of the day shift's medical records.
+    - When assigning patients in the morning, ensure a senior doctor is assigned to junior doctors up to their second year of postgraduate training.
+    - Ward assignments are handled by third-year postgraduate doctors, fellows, or attending staff.
+    - Conduct thorough handovers for ward patients, including long-term plans.
+
+⚠️ Under-construction
