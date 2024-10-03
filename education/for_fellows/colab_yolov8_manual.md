@@ -62,3 +62,4 @@ files.download("person_count_data.csv")
 - `display_frames`が`True`に設定されている場合、フレームを表示しようとしますが、ColabではGUIウィンドウを表示できないため、このオプションを`False`に設定することをお勧めします。
 
 これで、初心者向けにGoogle Colabでこのコードを実行するための手順が完成しました。
+test
