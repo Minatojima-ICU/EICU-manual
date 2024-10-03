@@ -42,7 +42,7 @@ video_path = "710560399.045479.MP4"  # アップロードした動画ファイ�
 yolo_model_path = "yolov8n.pt"  # ダウンロードしたYOLOモデルのファイル名
 ```
 
-次に、一番したにあるコードをColabにコピーして貼り付けてください。パスが正しく設定されていることを確認し、実行します。
+次に、一番したにある **「コード - 動画から人数を検出」** をColabにコピーして貼り付けてください。パスが正しく設定されていることを確認し、実行します。
 
 ## 6. コードの実行
 コード全体を実行すると、動画内の人物をカウントし、その情報を`person_count_data.csv`というCSVファイルに保存します。処理が完了すると、CSVファイルが生成されます。
@@ -62,9 +62,11 @@ files.download("person_count_data.csv")
 - `display_frames`が`True`に設定されている場合、フレームを表示しようとしますが、ColabではGUIウィンドウを表示できないため、このオプションを`False`に設定することをお勧めします。
 
 これで、初心者向けにGoogle Colabでこのコードを実行するための手順が完成しました。 
+  
+    
 
+**「コード - 動画から人数を検出」**
 ```python
-
 # %% import packages and libraries
 import cv2
 from ultralytics import YOLO
