@@ -42,7 +42,7 @@ video_path = "710560399.045479.MP4"  # アップロードした動画ファイ�
 yolo_model_path = "yolov8n.pt"  # ダウンロードしたYOLOモデルのファイル名
 ```
 
-次に、元のコードをColabにコピーして貼り付けてください。パスが正しく設定されていることを確認し、実行します。
+次に、一番したにあるコードをColabにコピーして貼り付けてください。パスが正しく設定されていることを確認し、実行します。
 
 ## 6. コードの実行
 コード全体を実行すると、動画内の人物をカウントし、その情報を`person_count_data.csv`というCSVファイルに保存します。処理が完了すると、CSVファイルが生成されます。
@@ -61,5 +61,141 @@ files.download("person_count_data.csv")
 - 動画ファイルが大きい場合、処理に時間がかかることがあります。
 - `display_frames`が`True`に設定されている場合、フレームを表示しようとしますが、ColabではGUIウィンドウを表示できないため、このオプションを`False`に設定することをお勧めします。
 
-これで、初心者向けにGoogle Colabでこのコードを実行するための手順が完成しました。
-test
+これで、初心者向けにGoogle Colabでこのコードを実行するための手順が完成しました。 
+
+```python
+
+# %% import packages and libraries
+import cv2
+from ultralytics import YOLO
+import time
+import csv
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# --- パラメーター設定 ---
+interval = 1  # 何秒の平均にするか
+output_csv = "person_count_data.csv"  # 作成するCSVファイル名
+target_frame_height = 240  # フレームの縮小高さ
+display_frames = True  # フレームを表示するかどうか
+PERSON_CLASS_ID = 0  # クラスID 0 は "person"
+
+# video_path = "/Users/ryutaroseo/Library/CloudStorage/OneDrive-個人用/Dev/動体検知/動体検知_test/710560399.045479.MP4" # 動画ファイルのパス
+# yolo_model_path = "yolov8n.pt"  # YOLOモデルのパス
+
+# YOLOモデルをロード（最初に一度だけ実行）
+model = YOLO(yolo_model_path)
+
+
+def process_video(video_path, interval, output_csv):
+    cap = cv2.VideoCapture(video_path)
+    if not cap.isOpened():
+        print(f"Error: Cannot open video file {video_path}")
+        return
+
+    frame_count = 0
+    person_count = 0
+    interval_start_time = 0  # インターバルの開始時間（ビデオの経過秒数）
+    start_time = time.time()
+
+    with open(output_csv, mode="w", newline="") as file:
+        writer = csv.writer(file)
+        # ヘッダーの変更
+        writer.writerow(
+            ["Start Time (s)", "End Time (s)", "Avg Person Count", "Frame Count"]
+        )
+
+        while cap.isOpened():
+            ret, frame = cap.read()
+            if not ret:
+                break
+
+            # フレームのビデオ内での経過時間を取得（ミリ秒を秒に変換）
+            current_time_sec = cap.get(cv2.CAP_PROP_POS_MSEC) / 1000.0
+
+            # アスペクト比を維持してフレームをリサイズ
+            h, w = frame.shape[:2]
+            aspect_ratio = w / h
+            target_width = int(target_frame_height * aspect_ratio)
+            frame = cv2.resize(frame, (target_width, target_frame_height))
+
+            results = model(frame)
+            frame_count += 1
+            frame_person_count = 0  # このフレームで検出された人数
+
+            for result in results:
+                boxes = result.boxes
+                for box in boxes:
+                    x1, y1, x2, y2 = map(int, box.xyxy[0])
+                    cls = int(box.cls[0])
+                    if cls == PERSON_CLASS_ID:
+                        frame_person_count += 1
+                        if display_frames:
+                            cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 255, 0), 2)
+                            cv2.putText(
+                                frame,
+                                "Person",
+                                (x1, y1 - 10),
+                                cv2.FONT_HERSHEY_SIMPLEX,
+                                0.9,
+                                (0, 255, 0),
+                                2,
+                            )
+
+            # フレームごとの人数を集計
+            person_count += frame_person_count
+
+            # 指定した時間間隔（interval）ごとに平均人数を計算しCSVに書き込む
+            if current_time_sec - interval_start_time >= interval:
+                avg_person_count = person_count / frame_count if frame_count > 0 else 0
+                interval_end_time = current_time_sec
+
+                # CSVにデータを追記
+                writer.writerow(
+                    [
+                        interval_start_time,
+                        interval_end_time,
+                        avg_person_count,
+                        frame_count,
+                    ]
+                )
+
+                # カウンタリセット
+                frame_count = 0
+                person_count = 0
+                interval_start_time = (
+                    interval_end_time  # 次のインターバルの開始時間を設定
+                )
+
+            if display_frames:
+                cv2.imshow("Frame", frame)
+                if cv2.waitKey(1) & 0xFF == ord("q"):
+                    break
+
+    cap.release()
+    if display_frames:
+        cv2.destroyAllWindows()
+
+# 平均の人数をグラフにする関数を追加
+def plot_average_person_count(csv_path):
+    # CSVファイルを読み込み
+    df = pd.read_csv(csv_path)
+
+    # 平均人数をグラフにプロット
+    plt.figure(figsize=(10, 6))
+    plt.plot(df['End Time (s)'], df['Avg Person Count'], marker='o', linestyle='-')
+    plt.xlabel('Time (s)')
+    plt.ylabel('Average Person Count')
+    plt.title('Average Person Count Over Time')
+    plt.grid(True)
+    plt.show()
+
+def main():
+    process_video(video_path, interval, output_csv)
+    # 平均人数のグラフを表示
+    plot_average_person_count(output_csv)
+
+if __name__ == "__main__":
+    main()
+
+```
