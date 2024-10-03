@@ -5,7 +5,7 @@
 
 ## 1. Google Colabを開く
 - (右クリックして新規ダブで開いてください)  
-<a href="https://colab.research.google.com" target="_blank">Google Colab</a>にアクセスし、新しいノートブックを作成します。
+<a href="https://colab.research.google.com" target="_blank">Google Colab</a>にアクセスし、「+ ノートブックを新規作成」をクリックして、新しいノートブックを作成します。
 	
 ## 2. 必要なライブラリのインストール
 コードを実行するために、必要なライブラリをインストールします。以下のコードをColabのセルにコピーして実行してください。
