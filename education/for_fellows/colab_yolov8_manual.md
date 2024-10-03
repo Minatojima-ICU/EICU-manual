@@ -4,7 +4,7 @@
 このガイドは、初心者がGoogle Colab上でコードを実行し、必要なファイルをダウンロードして設定する方法を説明します。これにより、YOLOv8を使用して動画内の人物を検出し、カウントすることができます。
 
 ## 1. Google Colabを開く
-- [Google Colab](https://colab.research.google.com)にアクセスし、新しいノートブックを作成します。
+- [Google Colab](https://colab.research.google.com{:target="_blank"})にアクセスし、新しいノートブックを作成します。
 
 ## 2. 必要なライブラリのインストール
 コードを実行するために、必要なライブラリをインストールします。以下のコードをColabのセルにコピーして実行してください。
