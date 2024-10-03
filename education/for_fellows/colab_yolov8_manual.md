@@ -166,7 +166,8 @@ def process_video(video_path, interval, output_csv):
                 )
 
             if display_frames:
-                cv2.imshow("Frame", frame)
+                # google colab上では動画確認はできないため、以下は実行せず
+                # cv2.imshow("Frame", frame) 
                 if cv2.waitKey(1) & 0xFF == ord("q"):
                     break
 
