@@ -10,3 +10,6 @@
 
 # 医学生教育
 - [医学生](for_students/med_student_doc.md)
+
+# おすすめ教科書
+- [おすすめ教科書](recommended_books_for_ICU_trainee/recommended_books_for_ICU_trainee.md)
