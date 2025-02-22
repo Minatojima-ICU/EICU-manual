@@ -22,7 +22,7 @@
 - [「ACP Teaching Medicine Series: 7 Book Boxed Set」](https://www.amazon.co.jp/dp/1938921127/)J Ende（American College of Physicians）
 
 ## 集中治療室運営
-- [「ファシリテーション入門＜第２版＞」](https://www.amazon.co.jp/dp/B07HRLDXDB/)堀公俊（日本経済新聞出版）、2章 発展するファシリテーションの応用分野
+- [「ファシリテーション入門＜第２版＞」](https://www.amazon.co.jp/dp/B07HRLDXDB/)堀公俊（日本経済新聞出版）
 - [「日本集中治療医学会 集中治療室における安全管理指針」](https://www.jsicm.org/pdf/icu_anzen_kanri.pdf)日集中医誌 2021;28:29-59. 
 - [「ICU Admission, Discharge, and Triage Guidelines: A Framework to Enhance Clinical Operations, Development of Institutional Policies, and Further Research 」](https://pubmed.ncbi.nlm.nih.gov/27428118/)PMID: 27428118
 - [「Critical Care Delivery: The Importance of Process of Care and ICU Structure to Improved Outcomes: An Update From the American College of Critical Care Medicine Task Force on Models of Critical Care 」](https://pubmed.ncbi.nlm.nih.gov/25803647/)PMID: 25803647
