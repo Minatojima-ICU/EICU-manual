@@ -34,7 +34,7 @@
 - [「自治体病院経営ハンドブック」](https://shop.gyosei.jp/products/list?mode=&category_id=101003003&name=&pageno=1&disp_number=30&orderby=1&keyword=&author_name=&code=&mbn=&product_stock=1)自治体病院経営研究会（ぎょうせい）
 - [「サービスの経営学」](https://www.amazon.co.jp/dp/B010N4TDSM)今枝 昌宏（東洋経済新報社）
 
-## 社会保障、医療制度
+## 社会保障、医療制度、ほか
 - [「教養としての社会保障」](https://www.amazon.co.jp/dp/4492701443)香取 照幸 (東洋経済新報社) 
 - [「弱いロボット」](https://www.amazon.co.jp/dp/4260016733)岡田 美智男（医学書院）
 - [「地域包括ケアシステムの深化: integrated care理論を用いたチェンジマネジメント」](https://www.amazon.co.jp/dp/4805859415)筒井 孝子 (中央法規出版) 
