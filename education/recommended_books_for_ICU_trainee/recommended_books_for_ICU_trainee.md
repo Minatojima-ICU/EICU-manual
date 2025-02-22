@@ -30,8 +30,7 @@
 - [「An Official ATS/AACN/ACCP/ESICM/SCCM Policy Statement: Responding to Requests for Potentially Inappropriate Treatments in Intensive Care Units」](https://pubmed.ncbi.nlm.nih.gov/25978438/)PMID: 25978438 
 
 ## 病院運営
-- [「病院機能評価　機能種別版評価項目<3rdG:Ver.3.0>解説集」](https://www.jq-hyouka.jcqhc.or.jp/tool/guideline/)公益財団法人 日本医療機能評価機構 目次
-- 参考図書
+- [「病院機能評価　機能種別版評価項目<3rdG:Ver.3.0>解説集」](https://www.jq-hyouka.jcqhc.or.jp/tool/guideline/)公益財団法人 日本医療機能評価機構
 - [「自治体病院経営ハンドブック」](https://shop.gyosei.jp/products/list?mode=&category_id=101003003&name=&pageno=1&disp_number=30&orderby=1&keyword=&author_name=&code=&mbn=&product_stock=1)自治体病院経営研究会（ぎょうせい）
 - [「サービスの経営学」](https://www.amazon.co.jp/dp/B010N4TDSM)今枝 昌宏（東洋経済新報社）
 
