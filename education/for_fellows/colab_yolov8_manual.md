@@ -78,8 +78,8 @@ target_frame_height = 240  # フレームの縮小高さ
 display_frames = True  # フレームを表示するかどうか
 PERSON_CLASS_ID = 0  # クラスID 0 は "person"
 
-# video_path = "/Users/ryutaroseo/Library/CloudStorage/OneDrive-個人用/Dev/動体検知/動体検知_test/710560399.045479.MP4" # 動画ファイルのパス
-# yolo_model_path = "yolov8n.pt"  # YOLOモデルのパス
+video_path = "0560399.045479.MP4" # 動画ファイルのパス
+yolo_model_path = "yolov8n.pt"  # YOLOモデルのパス
 
 # YOLOモデルをロード（最初に一度だけ実行）
 model = YOLO(yolo_model_path)
