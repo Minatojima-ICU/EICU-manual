@@ -6,3 +6,6 @@
 1. [救急科入院対応マニュアル](manual/1W_manual_for_doc.md)
 1. [RRSマニュアル](RRS/RRS_manual_for_doc.md)
 1. [教育コンテンツ](education/EICU_education.md)
+
+## EICU_ChatBot
+https://chatgpt.com/g/g-MRQT8eIVX-gang-dao-eicumaniyuaru
