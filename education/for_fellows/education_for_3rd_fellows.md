@@ -50,9 +50,11 @@
 - 課題図書  
   - [「日本集中治療医学会 集中治療室における安全管理指針」](https://www.jsicm.org/pdf/icu_anzen_kanri.pdf)日集中医誌 2021;28:29-59. 
 - 参考図書  
+  - [「Society of Critical Care Medicine 2024 Guidelines on Adult ICU Design」](https://pubmed.ncbi.nlm.nih.gov/39982130/)PMID: 39982130
   - [「ICU Admission, Discharge, and Triage Guidelines: A Framework to Enhance Clinical Operations, Development of Institutional Policies, and Further Research 」](https://pubmed.ncbi.nlm.nih.gov/27428118/)PMID: 27428118
   - [「Critical Care Delivery: The Importance of Process of Care and ICU Structure to Improved Outcomes: An Update From the American College of Critical Care Medicine Task Force on Models of Critical Care 」](https://pubmed.ncbi.nlm.nih.gov/25803647/)PMID: 25803647
   - [「Guidelines for Family-Centered Care in the Neonatal, Pediatric, and Adult ICU」](https://pubmed.ncbi.nlm.nih.gov/27984278/)PMID: 27984278
+  - [「Society of Critical Care Medicine Guidelines on Family-Centered Care for Adult ICUs: 2024」](https://pubmed.ncbi.nlm.nih.gov/39982184/)PMID: 39982184
   - [「An Official ATS/AACN/ACCP/ESICM/SCCM Policy Statement: Responding to Requests for Potentially Inappropriate Treatments in Intensive Care Units」](https://pubmed.ncbi.nlm.nih.gov/25978438/)PMID: 25978438 
 
 ### 5. 「病院運営を知る」（病院機能、病院経営、労務管理、病院内の部署の役割）  
