@@ -8,7 +8,7 @@
 
 - ターミナルを開いてコマンドを実行できる
 - `Node.js` と `npm` をインストールできる
-- CLIでLLM（ChatGPT/Codex, Gemini, Claude Code）を起動できる
+- CLIでLLM（Codex, Gemini CLI, Claude Code）を起動できる
 - 短い指示文（プロンプト）で簡単な作業を依頼できる
 
 ## 2. 事前準備
@@ -23,7 +23,7 @@
 ### 注意
 - ChatGPT plus/Google AI pro/Claude Code proのユーザーは、新たに課金する必要はありません。ただし、上限があるので、普段使いをしている人は気をつけてください (特にClaude Code pro)。
 - 2026/03/12現在、CodexとGeminiCLIは無料枠でも利用可能です。Claude Codeは無料枠はありません。
-- API利用は課金が発生します（従量課金）。最初はChatGPT plus/Google AI pro/Claude Code proを利用すると良いでしょう。
+- **重要** API利用は課金が発生します（従量課金）。最初はChatGPT plus/Google AI pro/Claude Code pro、もしくはそれぞれの無料枠を利用すると良いでしょう。
 - 病院から支給されているPCの場合は、院内ルールに従ってください。
 
 ## 3. ターミナルとは
