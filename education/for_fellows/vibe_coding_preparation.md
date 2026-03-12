@@ -21,9 +21,9 @@
 - 30〜60分の作業時間
 
 ### 注意
-- ChatGPT plus/Google AI pro/Claude Code proのユーザーは、新たに課金する必要はありません。ただし、上限があるので、普段使いをしている人は気をつけてください (特にClaude Code pro)。
+- ChatGPT plus/Google AI pro/Claude proのユーザーは、新たに課金する必要はありません。ただし、上限があるので、普段使いをしている人は気をつけてください (特にClaude pro)。
 - 2026/03/12現在、CodexとGeminiCLIは無料枠でも利用可能です。Claude Codeは無料枠はありません。
-- **重要** API利用は課金が発生します（従量課金）。最初はChatGPT plus/Google AI pro/Claude Code pro、もしくはそれぞれの無料枠を利用すると良いでしょう。
+- **重要** API利用は課金が発生します（従量課金）。最初はChatGPT plus/Google AI pro/Claude pro、もしくはそれぞれの無料枠を利用すると良いでしょう。
 - 病院から支給されているPCの場合は、院内ルールに従ってください。
 
 ## 3. ターミナルとは
