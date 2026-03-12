@@ -22,6 +22,7 @@
 
 ### 注意
 - ChatGPT plus/Google AI pro/Claude Code proのユーザーは、新たに課金する必要はありません。ただし、上限があるので、普段使いをしている人は気をつけてください (特にClaude Code pro)。
+- 2026/03/12現在、CodexとGeminiCLIは無料枠でも利用可能です。Claude Codeは無料枠はありません。
 - API利用は課金が発生します（従量課金）。最初はChatGPT plus/Google AI pro/Claude Code proを利用すると良いでしょう。
 - 病院から支給されているPCの場合は、院内ルールに従ってください。
 
@@ -74,7 +75,7 @@ npm -v
 2. 利用手順の公式ドキュメントに沿ってCLIをインストール
 3. 認証（ログインまたはAPIキー設定）
 
-### 5-2. Gemini の場合
+### 5-2. Gemini CLI の場合
 [詳細な手順はこちら](https://geminicli.com/docs/get-started/installation/)
 1. Googleアカウントの準備
 2. Gemini CLIの公式手順でインストール
@@ -96,7 +97,7 @@ npm -v
 codex
 ```
 
-### 6-2. Geminiの場合
+### 6-2. Gemini CLIの場合
 ```bash
 gemini
 ```
