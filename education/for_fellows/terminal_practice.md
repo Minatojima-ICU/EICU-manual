@@ -8,8 +8,8 @@
 
 
 ### CLIとGUI
-普段使っているwindowsやmacでは、マウスでポインタを操作して動かします。この視覚的操作を行うための仕組みをGUI (Graphical User Interface)と言います。  
-対して、ターミナル上でコマンド（命令）を文字で入力して操作する仕組みをCLI (Command Line Interface)と言います。  
+普段使っているwindowsやmacでは、マウス/トラックパッドを使って操作をします。この視覚的操作を行うための仕組みをGUI (Graphical User Interface)と言います。  
+対して、ターミナル上でコマンド（命令）を文字で入力してパソコンを操作する仕組みをCLI (Command Line Interface)と言います。  
 直感ではGUIの方が絶対に使いやすいと思うのですが、CLIに慣れてくるとその使い所がわかってきます。
 
 ## 1. 練習用フォルダを作る
