@@ -1,6 +1,7 @@
 # Webページ作成ガイド
 
-このページは、[バイブコーディング練習ガイド（初心者向け）](./vibe_coding_preparation.md)と[ターミナルの練習](./terminal_practice.md)を修了していることを前提にしています。  
+このページは、[CLIで使うAIコーディングエージェント](./vibe_coding_cli_guide.md)と[ターミナルの練習](./terminal_practice.md)を修了していることを前提にしています。
+
 そのため、`cd` や `mkdir` などの基本操作、CLI型LLMの起動、簡単なプロンプトの書き方はすでにできるものとして進めます。
 
 今回はGemini CLIを例に書きますが、CodexやClaude Codeでも流れはほぼ同じです。
@@ -33,7 +34,7 @@
 
 まだ不安がある場合は、先に以下を見直してください。
 
-- [バイブコーディング練習ガイド（初心者向け）](./vibe_coding_preparation.md)
+- [CLIで使うAIコーディングエージェント](./vibe_coding_cli_guide.md)
 - [ターミナルの練習](./terminal_practice.md)
 
 ## 準備

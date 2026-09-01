@@ -17,7 +17,7 @@
 | [vibe_coding_first_step_antigravity.md](vibe_coding_first_step_antigravity.md) | Vibe Coding第一歩 (Antigravity) |
 | [vibe_coding_first_step_claude.md](vibe_coding_first_step_claude.md) | Vibe Coding第一歩 (Claude) |
 | [vibe_coding_first_step_codex_app.md](vibe_coding_first_step_codex_app.md) | Vibe Coding第一歩 (Codex App) |
-| [vibe_coding_preparation.md](vibe_coding_preparation.md) | Vibe Coding準備資料 |
+| [vibe_coding_cli_guide.md](vibe_coding_cli_guide.md) | AIコーディングエージェントのCLI利用ガイド |
 
 ## 使い方
 
