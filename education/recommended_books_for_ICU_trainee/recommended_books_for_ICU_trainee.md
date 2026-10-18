@@ -7,7 +7,7 @@
 - [「日本集中治療医学会 集中治療室における安全管理指針」](https://www.jsicm.org/pdf/icu_anzen_kanri.pdf)日集中医誌 2021;28:29-59. 
 
 ## 医療倫理
-- [「臨床倫理学: 臨床医学における倫理的決定のための実践的なアプロ-チ」](https://www.amazon.co.jp/dp/4880024856/) 赤林朗 (新興医学出版社)
+- [臨床倫理学 第9版　臨床医学における倫理的決定のための実践的なアプローチ](https://www.amazon.co.jp/dp/4880029297/) 赤林朗 (新興医学出版社)
 
 ## 診断と治療
 - [「Decision Making in Health and Medicine: Integrating Evidence and Values」](https://www.amazon.co.jp/dp/B00N4PLW5A/) M. G. Myriam Hunink (Cambridge University Press)
@@ -31,7 +31,6 @@
 
 ## 病院運営
 - [「病院機能評価　機能種別版評価項目<3rdG:Ver.3.0>解説集」](https://www.jq-hyouka.jcqhc.or.jp/tool/guideline/)公益財団法人 日本医療機能評価機構
-- [「自治体病院経営ハンドブック」](https://shop.gyosei.jp/products/list?mode=&category_id=101003003&name=&pageno=1&disp_number=30&orderby=1&keyword=&author_name=&code=&mbn=&product_stock=1)自治体病院経営研究会（ぎょうせい）
 - [「サービスの経営学」](https://www.amazon.co.jp/dp/B010N4TDSM)今枝 昌宏（東洋経済新報社）
 
 ## 社会保障、医療制度、ほか

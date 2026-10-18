@@ -53,24 +53,28 @@
   - [「Society of Critical Care Medicine 2024 Guidelines on Adult ICU Design」](https://pubmed.ncbi.nlm.nih.gov/39982130/)PMID: 39982130
   - [「ICU Admission, Discharge, and Triage Guidelines: A Framework to Enhance Clinical Operations, Development of Institutional Policies, and Further Research 」](https://pubmed.ncbi.nlm.nih.gov/27428118/)PMID: 27428118
   - [「Critical Care Delivery: The Importance of Process of Care and ICU Structure to Improved Outcomes: An Update From the American College of Critical Care Medicine Task Force on Models of Critical Care 」](https://pubmed.ncbi.nlm.nih.gov/25803647/)PMID: 25803647
-  - [「Guidelines for Family-Centered Care in the Neonatal, Pediatric, and Adult ICU」](https://pubmed.ncbi.nlm.nih.gov/27984278/)PMID: 27984278
   - [「Society of Critical Care Medicine Guidelines on Family-Centered Care for Adult ICUs: 2024」](https://pubmed.ncbi.nlm.nih.gov/39982184/)PMID: 39982184
-  - [「An Official ATS/AACN/ACCP/ESICM/SCCM Policy Statement: Responding to Requests for Potentially Inappropriate Treatments in Intensive Care Units」](https://pubmed.ncbi.nlm.nih.gov/25978438/)PMID: 25978438 
+  - [「An Official ATS/AACN/ACCP/ESICM/SCCM Policy Statement: Responding to Requests for Potentially Inappropriate Treatments in Intensive Care Units」](https://pubmed.ncbi.nlm.nih.gov/25978438/)PMID: 25978438
+  - [「遠隔集中治療に関するガイドライン」](https://www.jsicm.org/pdf/Guidelines_of_Tele-ICU_JSICM2025.pdf)日本集中治療医学会遠隔集中治療タスクフォース *new!*
+  - [「集中治療部設置のための指針 2022年改訂版」](https://www.jsicm.org/publication/pdf/ICU-kijun2022.pdf)日本集中治療医学会理事会 *new!*
+  - [「ICU入退室指針」](https://www.jsicm.org/publication/pdf/JSICM_ICU_EnterExit_20231124.pdf)日本集中治療医学会ICU入退室指針作成タスクフォース *new!*
 
 ### 5. 「病院運営を知る」（病院機能、病院経営、労務管理、病院内の部署の役割）  
 - 課題図書
   - [「病院機能評価　機能種別版評価項目<3rdG:Ver.3.0>解説集」](https://www.jq-hyouka.jcqhc.or.jp/tool/guideline/)公益財団法人 日本医療機能評価機構 目次
 - 参考図書
-  - [「自治体病院経営ハンドブック」](https://shop.gyosei.jp/products/list?mode=&category_id=101003003&name=&pageno=1&disp_number=30&orderby=1&keyword=&author_name=&code=&mbn=&product_stock=1)自治体病院経営研究会（ぎょうせい）
   - [「病院経営の教科書〈数値と事例で見る中小病院の生き残り戦略〉」](https://www.amazon.co.jp/dp/4784945113/)小松 大介、他（日本医事新報社） 
-  - [「データで変える病院経営」](https://www.amazon.co.jp/dp/4502419214)後藤 隆久、他（中央経済社）*new!*
+  - [「データで変える病院経営」](https://www.amazon.co.jp/dp/4502419214)後藤 隆久、他（中央経済社）
   - [「サービスの経営学」](https://www.amazon.co.jp/dp/B010N4TDSM)今枝 昌宏（東洋経済新報社）*new!*
-  - [「病院のための経営分析入門」](https://www.amazon.co.jp/dp/4840755191)石井 孝宜, 西田 大介(じほう) *new!*  
-  - [「あかるい職場応援団」](https://www.no-harassment.mhlw.go.jp)厚生労働省 *new!*
+  - [「病院のための経営分析入門」](https://www.amazon.co.jp/dp/4840755191)石井 孝宜, 西田 大介(じほう)   
+  - [「あかるい職場応援団」](https://www.no-harassment.mhlw.go.jp)厚生労働省
+  - [「医師の働き方改革」](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/ishi-hatarakikata_34355.html)厚生労働省 *new!*
+  - [「令和８年度診療報酬改定について」](https://www.mhlw.go.jp/stf/newpage_67729.html?utm_source=chatgpt.com)厚生労働省 *new!*
+
 
 ### 6. 「地域社会とその未来」（医療政策、地域医療、社会保障） 
 - 課題図書  
-  - [「2.医療提供体制を取り巻く状況 -超高齢化・人口急減の到来-」](https://www.mhlw.go.jp/content/10800000/000911302.pdf) 第8次医療計画、地域医療構想等について 令和4年3月4日 第7回第8次医療計画 等に関する検討会 
+  - [「地域医療構想及び医療計画等に関する検討会のとりまとめ」](https://www.mhlw.go.jp/stf/newpage_71672.html) 厚生労働省 *new!* 
 
 - 参考図書
   - [「新たな地域医療構想策定ガイドラインについて」](https://www.mhlw.go.jp/content/10800000/001589718.pdf)令和７年10月31日 第６回地域医療構想及び医療計画等に関する検討会 資料１
@@ -80,4 +84,4 @@
   - [「ビギナーズ地域福祉」](https://www.amazon.co.jp/dp/4641124868)牧里 毎治（有斐閣アルマ）
   - [「社会が変わるマーケティング――民間企業の知恵を公共サービスに活かす」](https://www.amazon.co.jp/dp/4862760090)フィリップ・コトラー（英治出版）
   - [「医療政策集中講義: 医療を動かす戦略と実践」](https://www.amazon.co.jp/dp/4260021648)東京大学公共政策大学院 医療政策教育・研究ユニット（医学書院）　Section 1　2025年に向けた社会保障制度改革
-  - [JAPAN SDGs Action Platform](https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/index.html)外務省 *new!*
+  - [JAPAN SDGs Action Platform](https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/index.html)外務省
