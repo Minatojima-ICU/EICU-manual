@@ -69,7 +69,7 @@
   - [「病院のための経営分析入門」](https://www.amazon.co.jp/dp/4840755191)石井 孝宜, 西田 大介(じほう)   
   - [「あかるい職場応援団」](https://www.no-harassment.mhlw.go.jp)厚生労働省
   - [「医師の働き方改革」](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/ishi-hatarakikata_34355.html)厚生労働省 *new!*
-  - [「令和８年度診療報酬改定について」](https://www.mhlw.go.jp/stf/newpage_67729.html?utm_source=chatgpt.com)厚生労働省 *new!*
+  - [「令和８年度診療報酬改定について」](https://www.mhlw.go.jp/stf/newpage_67729.html.com)厚生労働省 *new!*
 
 
 ### 6. 「地域社会とその未来」（医療政策、地域医療、社会保障） 
